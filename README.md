@@ -39,7 +39,8 @@ Frecuencia y tipo de actividad física realizada por los empleados.
 
 | Nombre              | Foto                                                                 | LinkedIn                                                   | Rol                        |
 |---------------------|----------------------------------------------------------------------|------------------------------------------------------------|----------------------------|
-| Ariana Maldonado     | ![Foto Ariana](https://media.licdn.com/dms/image/D4D03AQHT0rUxfgAYmA/profile-displayphoto-shrink_800_800/0/1717377885375?e=1723075200&v=beta&t=JLmCbIBHmvBNMbdoTTKI-_OXlnMa4RKKv43wHZkhL_Q) | [Ariana Maldonado](https://www.linkedin.com/in/ariana-maldonado/) | Desarrolladora del Proyecto |
+| Ariana Maldonado     | ![Foto Ariana](https://media.licdn.com/dms/image/v2/D4D03AQEthcHd_8VwPQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727565461008?e=1742428800&v=beta&t=YV3MQPCA9zxhSmkspOhNMf8_fhuSIc7w7tN3cfnlo1E) | [Ariana Maldonado](https://www.linkedin.com/in/ariana-maldonado/) | Desarrolladora del Proyecto |
+
 
 
 
